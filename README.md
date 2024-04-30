@@ -1,7 +1,7 @@
 <h3>Welcome, and thanks for looking at my demo Blazor app!</h3>
 <h3>To run the demo, make "ProxyServer" your startup project in Visual Studio.</h3>
 <br />
-<h4><ul>Extract from home component.</ul></h4>
+<h4><u>Extract from home component.</u></h4>
 <p class="suggestion">Using the menu on the left, you can search for details about a UK vehicle.</p>
 <br />
 <p>The "Acceptance Criteria" for this demo would be.. </p>
